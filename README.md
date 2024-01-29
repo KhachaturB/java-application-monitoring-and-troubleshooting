@@ -84,6 +84,9 @@ Installation at Windows:
 - [ ] Additional topics demand form attendees
 
 ## Java app development crash course (50m)
+
+Посмотреть на проект [Loom](https://openjdk.org/projects/loom/)
+
 ### What do any application doing?
 ![System as Public service](/visuals/restaurant-as-system-metaphor.jpg "System as Public service")
 
